@@ -19,4 +19,4 @@ Hello everyone
 ### Links:
 * Here is the link of Figma wireframe => https://www.figma.com/file/01vhS6Dm2RutobujjXNTb7/Wireframing-in-Figma?node-id=0%3A1
 * Here is the link of Trello board => https://trello.com/b/aVGjmrxO/kanban-template
-* Also if you want to check my project I upload it and here is the link for you 🤍 => 
+* Also if you want to check my project I upload it and here is the link for you 🤍 => https://turkihaqawi.github.io/Project1-ShowHotels/
